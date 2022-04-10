@@ -1,4 +1,4 @@
-＃　supabase+next.jsのクイックスタートのチュートリアルをやった
+# supabase+next.jsのクイックスタートのチュートリアルをやった
 
 https://supabase.com/docs/guides/with-nextjs
 
