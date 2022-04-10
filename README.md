@@ -1,3 +1,5 @@
+＃　supabase+next.jsのクイックスタートのチュートリアルをやった
+
 https://supabase.com/docs/guides/with-nextjs
 
 ![スクリーンショット 2022-04-10 22 19 36](https://user-images.githubusercontent.com/79749395/162620215-ba1b6ffb-bb8e-4cfa-bac4-d3d0b523f341.png)
